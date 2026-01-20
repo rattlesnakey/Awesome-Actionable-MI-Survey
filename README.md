@@ -43,7 +43,7 @@ Mechanistic Interpretability (MI) has evolved from merely observing model intern
 
 ## 🔥 Latest News
 <!-- - **[2025-XX-XX]** Our paper is available on arXiv! Check it out [here](https://arxiv.org/). -->
-- **[2026-1-3]** This repository is created to track the latest progress in Actionable MI.
+- **[2026-1-20]** This repository is created to track the latest progress in Actionable MI.
 
 ## 🏷 Taxonomy & Legends
 
