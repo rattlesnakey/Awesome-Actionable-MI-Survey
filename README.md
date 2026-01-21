@@ -237,7 +237,7 @@ data-dependent
 | **Knowledge Localization: Mission Not Accomplished? Enter Query Localization!** | MHA & FFN | Magnitude Analysis | Amplitude Manipulation | ICLR | 2025 | [Link](https://openreview.net/forum?id=tfyHbvFZ0K) |
 | **Enhancing Large Language Model Performance with Gradient-Based Parameter Selection** | MHA & FFN | Magnitude Analysis | Targeted Optimization | AAAI | 2025 | [Link](https://doi.org/10.1609/aaai.v39i23.34621) |
 | **The Geometry of Forgetting: Analyzing Machine Unlearning through Local Learning Coefficients** | MHA & FFN | Magnitude Analysis | - | ICML | 2025 | [Link](https://openreview.net/forum?id=qKh7Aip3JC) |
-| **Knowledge Circuits in Pretrained Transformers** | MHA & FFN | Circuit Discovery | Amplitude Manipulation | NeurIPS | 2024 | [Link](https://proceedings.neurips.cc/paper_files/paper/2024/file/d6df31b1be98e04be48af8bedb95b499-Paper-Conference.pdf) |
+| **Knowledge Circuits in Pretrained Transformers** | MHA & FFN | Circuit Discovery | - | NeurIPS | 2024 | [Link](https://proceedings.neurips.cc/paper_files/paper/2024/file/d6df31b1be98e04be48af8bedb95b499-Paper-Conference.pdf) |
 | **Towards Secure Tuning: Mitigating Security Risks Arising from Benign Instruction Fine-Tuning** | MHA & FFN | Probing | Targeted Optimization | ArXiv | 2024 | [Link](https://doi.org/10.48550/arXiv.2410.04524) |
 | **Unveiling Linguistic Regions in Large Language Models** | MHA & FFN | Gradient Detection | Targeted Optimization | ACL | 2024 | [Link](https://aclanthology.org/2024.acl-long.338/) |
 | **Sens-Merging: Sensitivity-Guided Parameter Balancing for Merging Large Language Models** | MHA & FFN | Gradient Detection | Vector Arithmetic | ACL | 2025 | [Link](https://aclanthology.org/2025.findings-acl.984/) |
