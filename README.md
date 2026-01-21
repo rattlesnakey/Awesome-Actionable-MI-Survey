@@ -2,9 +2,7 @@
 
 <div align="center">
 
-[![PDF](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/rattlesnakey/Awesome-Actionable-MI-Survey/blob/master/Actionable-MI-Survey.pdf)
-[![Status](https://img.shields.io/badge/STATUS-Active-brightgreen?style=for-the-badge)]()
-<!-- [![Preprints](https://img.shields.io/badge/Preprints.org-202511.2077-blue?style=for-the-badge)](https://www.preprints.org/manuscript/202511.2077/v1) -->
+[![PDF](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/rattlesnakey/Awesome-Actionable-MI-Survey/blob/master/Actionable-MI-Survey.pdf) [![Status](https://img.shields.io/badge/STATUS-Active-brightgreen?style=for-the-badge)]() [![arXiv](https://img.shields.io/badge/arXiv-2601.14004v1-b31b1b?style=for-the-badge)](https://arxiv.org/abs/2601.14004)
 
 </div>
 
@@ -42,8 +40,8 @@ If you enjoy or benefit from the project, a star ⭐ on GitHub would be greatly 
 Mechanistic Interpretability (MI) has evolved from merely observing model internals to actively intervening in them. This repository maintains a curated list of papers reviewed in our survey, focusing on **Actionable MI**.
 
 ## 🔥 Latest News
-<!-- - **[2025-XX-XX]** Our paper is available on arXiv! Check it out [here](https://arxiv.org/). -->
-- **[2026-1-3]** This repository is created to track the latest progress in Actionable MI.
+- **[2026-1-21]** Our paper is available on arXiv! Check it out [here](https://arxiv.org/abs/2601.14004).
+- **[2026-1-20]** This repository is created to track the latest progress in Actionable MI.
 
 ## 🏷 Taxonomy & Legends
 
@@ -113,7 +111,7 @@ data-dependent
 | **Saif: A sparse autoencoder framework for interpreting and steering instruction following of language models** | SAE Feature | Magnitude Analysis | Vector Arithmetic | ArXiv | 2025 | [Link](https://arxiv.org/abs/2502.11356) |
 | **Training Superior Sparse Autoencoders for Instruct Models** | SAE Feature | Magnitude Analysis | Vector Arithmetic | ArXiv | 2025 | [Link](https://arxiv.org/abs/2506.07691) |
 | **Towards Secure Tuning: Mitigating Security Risks Arising from Benign Instruction Fine-Tuning** | Token Embedding | Gradient Detection | Vector Arithmetic | ArXiv | 2025 | [Link](https://arxiv.org/abs/2507.18043) |
-| **Pierce the Mists, Greet the Sky: Decipher Knowledge Overshadowing via Knowledge Circuit Analysis** |  & FFN | Circuit Discovery | Targeted Optimization | EMNLP | 2025 | [Link](https://aclanthology.org/2025.emnlp-main.781/) |
+| **Pierce the Mists, Greet the Sky: Decipher Knowledge Overshadowing via Knowledge Circuit Analysis** | MHA & FFN | Circuit Discovery | Targeted Optimization | EMNLP | 2025 | [Link](https://aclanthology.org/2025.emnlp-main.781/) |
 
 #### Fairness and Bias
 | Paper | Object | Localizing Method | Steering Method | Venue | Year | Link |
@@ -122,12 +120,12 @@ data-dependent
 | **MPF: Aligning and Debiasing Language Models Post Deployment via Multi Perspective Fusion** | Residual Stream | - | Amplitude Manipulation | ICML | 2025 | [Link](https://arxiv.org/abs/2507.02595) |
 | **Mitigate Position Bias in LLMs via Scaling a Single Hidden States Channel** | Residual Stream | Magnitude Analysis | Amplitude Manipulation | ACL | 2025 | [Link](https://aclanthology.org/2025.findings-acl.316/) |
 | **Analysing Moral Bias in Finetuned LLMs through Mechanistic Interpretability** | Residual Stream | Causal Attribution | Amplitude Manipulation | ArXiv | 2025 | [Link](https://arxiv.org/abs/2510.12229) |
-| **Investigating Gender Bias in Language Models Using Causal Mediation Analysis** |  | Causal Attribution | Amplitude Manipulation | NeurIPS | 2020 | [Link](https://proceedings.neurips.cc/paper/2020/file/92650b2e92217715fe312e6fa7b90d82-Paper.pdf) |
-| **Dissecting Bias in LLMs: A Mechanistic Interpretability Perspective** |  | Magnitude Analysis | Amplitude Manipulation | TMLR | 2025 | [Link](https://openreview.net/forum?id=EpQ2CBJTjD) |
-| **Linear Representations of Political Perspective Emerge in Large Language Models** |  | Probing | Vector Arithmetic | ICLR | 2025 | [Link](https://openreview.net/forum?id=rwqShzb9li) |
-| **Tracing Positional Bias in Financial Decision-Making: Mechanistic Insights from Qwen2.5** |  | Magnitude Analysis | - | ICAIF | 2025 | [Link](https://arxiv.org/abs/2508.18427) |
-| **Eliminating Position Bias of Language Models: A Mechanistic Approach** |  | Magnitude Analysis | Amplitude Manipulation | ICLR | 2025 | [Link](https://openreview.net/forum?id=fvkElsJOsN) |
-| **Identifying and Adapting Transformer-Components Responsible for Gender Bias in an English Language Model** |  | Causal Attribution | Targeted Optimization | ACLWS | 2023 | [Link](https://aclanthology.org/2023.blackboxnlp-1.29/) |
+| **Investigating Gender Bias in Language Models Using Causal Mediation Analysis** | MHA | Causal Attribution | Amplitude Manipulation | NeurIPS | 2020 | [Link](https://proceedings.neurips.cc/paper/2020/file/92650b2e92217715fe312e6fa7b90d82-Paper.pdf) |
+| **Dissecting Bias in LLMs: A Mechanistic Interpretability Perspective** | MHA | Magnitude Analysis | Amplitude Manipulation | TMLR | 2025 | [Link](https://openreview.net/forum?id=EpQ2CBJTjD) |
+| **Linear Representations of Political Perspective Emerge in Large Language Models** | MHA | Probing | Vector Arithmetic | ICLR | 2025 | [Link](https://openreview.net/forum?id=rwqShzb9li) |
+| **Tracing Positional Bias in Financial Decision-Making: Mechanistic Insights from Qwen2.5** | MHA | Magnitude Analysis | - | ICAIF | 2025 | [Link](https://arxiv.org/abs/2508.18427) |
+| **Eliminating Position Bias of Language Models: A Mechanistic Approach** | MHA | Magnitude Analysis | Amplitude Manipulation | ICLR | 2025 | [Link](https://openreview.net/forum?id=fvkElsJOsN) |
+| **Identifying and Adapting Transformer-Components Responsible for Gender Bias in an English Language Model** | MHA | Causal Attribution | Targeted Optimization | ACLWS | 2023 | [Link](https://aclanthology.org/2023.blackboxnlp-1.29/) |
 | **Locating and Mitigating Gender Bias in Large Language Models** | FFN | Causal Attribution | Targeted Optimization | ICIC | 2024 | [Link](https://arxiv.org/abs/2403.14409) |
 | **Elucidating Mechanisms of Demographic Bias in LLMs for Healthcare** | FFN | Causal Attribution | Amplitude Manipulation | EMNLP | 2025 | [Link](https://aclanthology.org/2025.findings-emnlp.789) |
 | **Anchored Answers: Unravelling Positional Bias in GPT-2's Multiple-Choice Questions** | FFN | Vocab Projection | Targeted Optimization | ACL | 2025 | [Link](https://aclanthology.org/2025.findings-acl.124/) |
@@ -175,8 +173,8 @@ data-dependent
 | **Fractional Reasoning via Latent Steering Vectors Improves Inference Time Compute** | Residual Stream | Causal Attribution | Vector Arithmetic | ArXiv | 2025 | [Link](https://arxiv.org/abs/2506.15882) |
 | **Steering LLM Reasoning Through Bias-Only Adaptation** | Residual Stream | Causal Attribution | Vector Arithmetic | EMNLP | 2025 | [Link](https://arxiv.org/abs/2505.18706) |
 | **Feature Extraction and Steering for Enhanced Chain-of-Thought Reasoning in Language Models** | Residual Stream | Causal Attribution | Vector Arithmetic | EMNLP | 2025 | [Link](https://aclanthology.org/2025.emnlp-main.552/) |
-| **How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning** |  | Magnitude Analysis | Amplitude Manipulation | EMNLP | 2024 | [Link](https://doi.org/10.18653/v1/2024.emnlp-main.192) |
-| **Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis** |  | Causal Attribution | Amplitude Manipulation | EMNLP | 2024 | [Link](https://aclanthology.org/2024.emnlp-main.193/) |
+| **How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning** | MHA | Magnitude Analysis | Amplitude Manipulation | EMNLP | 2024 | [Link](https://doi.org/10.18653/v1/2024.emnlp-main.192) |
+| **Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis** | MHA | Causal Attribution | Amplitude Manipulation | EMNLP | 2024 | [Link](https://aclanthology.org/2024.emnlp-main.193/) |
 | **Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models** | MHA | Causal Attribution | - | EMNLP | 2025 | [Link](https://aclanthology.org/2025.emnlp-main.567/) |
 | **Chain-of-Thought in Large Language Models: Decoding, Projection, and Activation** | MHA & FFN | Magnitude Analysis | - | ArXiv | 2024 | [Link](https://arxiv.org/abs/2412.03944) |
 | **Interpreting and Improving Large Language Models in Arithmetic Calculation** | MHA & FFN | Causal Attribution | Targeted Optimization | ICML | 2024 | [Link](https://openreview.net/forum?id=CfOtiepP8s) |
@@ -330,18 +328,21 @@ data-dependent
 
 
 
-<!-- ## 🌟 Citation
+## 🌟 Citation
 
 If you find this survey or repository useful for your research, please cite:
 
 ```bibtex
-@article{your_survey_key_2025,
-  title={Locate, Steer, and Improve: A Survey of Actionable Mechanistic Interpretability in Large Language Models},
-  author={Your Name and Co-authors},
-  journal={arXiv preprint arXiv:25XX.XXXXX},
-  year={2025}
+@misc{zhang2026locatesteerimprovepractical,
+      title={Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models}, 
+      author={Hengyuan Zhang and Zhihao Zhang and Mingyang Wang and Zunhai Su and Yiwei Wang and Qianli Wang and Shuzhou Yuan and Ercong Nie and Xufeng Duan and Qibo Xue and Zeping Yu and Chenming Shang and Xiao Liang and Jing Xiong and Hui Shen and Chaofan Tao and Zhengwu Liu and Senjie Jin and Zhiheng Xi and Dongdong Zhang and Sophia Ananiadou and Tao Gui and Ruobing Xie and Hayden Kwok-Hay So and Hinrich Schütze and Xuanjing Huang and Qi Zhang and Ngai Wong},
+      year={2026},
+      eprint={2601.14004},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2601.14004}, 
 }
-``` -->
+```
 
 ## 📧 Contact
 Feel free to open an issue or contact us if you have any questions or want to include your work in this list!
