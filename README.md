@@ -146,6 +146,7 @@ data-dependent
 | **Steering Llama 2 via Contrastive Activation Addition** | Residual Stream | Causal Attribution | Vector Arithmetic | ACL | 2024 | [Link](https://aclanthology.org/2024.acl-long.828/) |
 | **Probing then Editing Response Personality of Large Language Models** | Residual Stream | Probing | Targeted Optimization | COLM | 2025 | [Link](https://openreview.net/pdf?id=z9SbcYYP0M) |
 | **Neural Transparency: Mechanistic Interpretability Interfaces for Anticipating Model Behaviors for Personalized AI** | Residual Stream | Causal Attribution | - | ArXiv | 2025 | [Link](https://arxiv.org/abs/2511.00230) |
+| **From Rational Answers to Emotional Resonance: The Role of Controllable Emotion Generation in Language Models** | Residual Stream | - | Vector Arithmetic | ArXiv | 2025 | [Link](https://arxiv.org/abs/2502.04075) |
 | **Psychological Steering in LLMs: An Evaluation of Effectiveness and Trustworthiness** | Residual Stream | Causal Attribution | Vector Arithmetic | ArXiv | 2025 | [Link](https://arxiv.org/abs/2510.04484) |
 | **Steering Latent Traits, Not Learned Facts: An Empirical Study of Activation Control Limits** | Residual Stream | Causal Attribution | Vector Arithmetic | ArXiv | 2025 | [Link](https://arxiv.org/abs/2511.18284) |
 | **Personality Vector: Modulating Personality of Large Language Models by Model Merging** | Residual Stream | Causal Attribution | Vector Arithmetic | EMNLP | 2025 | [Link](https://aclanthology.org/2025.emnlp-main.1253/) |
