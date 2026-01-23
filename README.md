@@ -293,6 +293,7 @@ data-dependent
 | **Grokking of implicit reasoning in transformers: A mechanistic journey to the edge of generalization** | MHA & FFN | Magnitude Analysis | - | NeurIPS | 2024 | [Link](https://proceedings.neurips.cc/paper_files/paper/2024/file/ad217e0c7fecc71bdf48660ad6714b07-Paper-Conference.pdf) |
 | **Unified View of Grokking, Double Descent and Emergent Abilities: A Comprehensive Study on Algorithm Task** | MHA & FFN | Magnitude Analysis | - | COLM | 2024 | [Link](https://arxiv.org/pdf/2402.15175) |
 | **Fine-Tuning is Subgraph Search: A New Lens on Learning Dynamics** | MHA & FFN | Circuit Discovery | Targeted Optimization | ArXiv | 2025 | [Link](https://www.arxiv.org/pdf/2502.06106) |
+| **Constructive Circuit Amplification:Improving Math Reasoning in LLMS via Targeted Sub-Network Updates** | MHA & FFN | Circuit Discovery | Targeted Optimization | ArXiv | 2025 | [Link](https://arxiv.org/pdf/2512.16914) |
 
 #### Efficient Inference
 | Paper | Object | Localizing Method | Steering Method | Venue | Year | Link |
