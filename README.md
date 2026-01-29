@@ -140,7 +140,7 @@ data-dependent
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: |
 | **Can Role Vectors Affect LLM Behaviour?** | Residual Stream | Causal Attribution | Vector Arithmetic | EMNLP | 2025 | [Link](https://aclanthology.org/2025.findings-emnlp.963/) |
 | **Persona vectors: Monitoring and controlling character traits in language models** | Residual Stream | Causal Attribution | Vector Arithmetic | ArXiv | 2025 | [Link](https://arxiv.org/abs/2507.21509) |
-| **From Monolingual to Bilingual: Investigating Language Conditioning in Large Language Models for Psycholinguistic Tasks** | Residual Stream | Probing | - | ArXiv | 2025 | [Link](https://arxiv.org/abs/2508.02502) |
+| **From Monolingual to Bilingual: Investigating Language Conditioning in Large Language Models for Psycholinguistic Tasks** | Residual Stream | Probing | - | AACL | 2025 | [Link](https://aclanthology.org/2025.findings-ijcnlp.60/) |
 | **Mechanistic Interpretability of Emotion Inference in Large Language Models** | Residual Stream | Probing | Vector Arithmetic | ACL | 2025 | [Link](https://aclanthology.org/2025.findings-acl.679/) |
 | **Personality as a Probe for LLM Evaluation: Method Trade-offs and Downstream Effects** | Residual Stream | Causal Attribution | Vector Arithmetic | NeurIPS | 2025 | [Link](https://openreview.net/forum?id=TWbcIU0DBr) |
 | **Steering Llama 2 via Contrastive Activation Addition** | Residual Stream | Causal Attribution | Vector Arithmetic | ACL | 2024 | [Link](https://aclanthology.org/2024.acl-long.828/) |
