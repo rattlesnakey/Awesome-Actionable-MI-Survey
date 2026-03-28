@@ -43,6 +43,7 @@ If you enjoy or benefit from the project, a star ⭐ on GitHub would be greatly 
 Mechanistic Interpretability (MI) has evolved from merely observing model internals to actively intervening in them. This repository maintains a curated list of papers reviewed in our survey, focusing on **Actionable MI**.
 
 ## 🔥 Latest News
+- **[2026-03-28]** We have significantly updated our paper list with **18 new papers**! These additions cover the latest advancements in reasoning steering, knowledge editing, efficient inference, and more. 🚀
 - **[2026-1-21]** Our paper is available on arXiv! Check it out [here](https://arxiv.org/abs/2601.14004).
 - **[2026-1-20]** This repository is created to track the latest progress in Actionable MI.
 
