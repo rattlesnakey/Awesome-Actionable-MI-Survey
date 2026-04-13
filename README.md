@@ -357,14 +357,11 @@ data-dependent
 If you find this survey or repository useful for your research, please cite:
 
 ```bibtex
-@misc{zhang2026locatesteerimprovepractical,
-      title={Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models}, 
-      author={Hengyuan Zhang and Zhihao Zhang and Mingyang Wang and Zunhai Su and Yiwei Wang and Qianli Wang and Shuzhou Yuan and Ercong Nie and Xufeng Duan and Qibo Xue and Zeping Yu and Chenming Shang and Xiao Liang and Jing Xiong and Hui Shen and Chaofan Tao and Zhengwu Liu and Senjie Jin and Zhiheng Xi and Dongdong Zhang and Sophia Ananiadou and Tao Gui and Ruobing Xie and Hayden Kwok-Hay So and Hinrich Schütze and Xuanjing Huang and Qi Zhang and Ngai Wong},
-      year={2026},
-      eprint={2601.14004},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2601.14004}, 
+@article{zhang2026locate,
+  title={Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models},
+  author={Zhang, Hengyuan and Zhang, Zhihao and Wang, Mingyang and Su, Zunhai and Wang, Yiwei and Wang, Qianli and Yuan, Shuzhou and Nie, Ercong and Duan, Xufeng and Xue, Qibo and others},
+  journal={arXiv preprint arXiv:2601.14004},
+  year={2026}
 }
 ```
 
