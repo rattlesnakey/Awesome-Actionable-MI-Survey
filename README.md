@@ -121,6 +121,8 @@ data-dependent
 | **Mechanistic Data Attribution: Tracing the Training Origins of Interpretable LLM Units** | SAE Feature | Gradient Detection | - | ArXiv | 2026 | [Link](https://arxiv.org/abs/2601.21996) |
 | **Towards Secure Tuning: Mitigating Security Risks Arising from Benign Instruction Fine-Tuning** | Token Embedding | Gradient Detection | Vector Arithmetic | ArXiv | 2025 | [Link](https://arxiv.org/abs/2507.18043) |
 | **Pierce the Mists, Greet the Sky: Decipher Knowledge Overshadowing via Knowledge Circuit Analysis** | MHA & FFN | Circuit Discovery | Targeted Optimization | EMNLP | 2025 | [Link](https://aclanthology.org/2025.emnlp-main.781/) |
+| **On Localizing and Deleting Toxic Memories in Large Language Models** | FFN | Causal Attribution | Targeted Optimization | NAACL | 2025 | [Link](https://aclanthology.org/2025.findings-naacl.129.pdf) |
+
 
 #### Fairness and Bias
 | Paper | Object | Localizing Method | Steering Method | Venue | Year | Link |
