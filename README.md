@@ -240,6 +240,7 @@ data-dependent
 | **Fine-tuning Done Right in Model Editing** | FFN | Gradient Detection | Targeted Optimization | ICLR | 2026 | [Link](https://arxiv.org/abs/2509.22072) |
 | **ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall** | FFN | Causal Attribution | Targeted Optimization | ICLR | 2026 | [Link](https://arxiv.org/abs/2510.07896) |
 | **LoKI: Low-damage Knowledge Implanting of Large Language Models** | FFN | Causal Attribution | Targeted Optimization | AAAI | 2026 | [Link](https://arxiv.org/abs/2505.22120) |
+| **ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation** | FFN | Magnitude Analysis | Amplitude Manipulation | NeurIPS | 2025 | [Link](https://openreview.net/forum?id=CyUq9D99vE) |
 | **Locating and Editing Factual Associations in GPT** | FFN | Causal Attribution | Targeted Optimization | NeurIPS | 2022 | [Link](https://openreview.net/forum?id=-h6WAS6eE4) |
 | **Mass-Editing Memory in a Transformer** | FFN | Causal Attribution | Targeted Optimization | ICLR | 2023 | [Link](https://openreview.net/forum?id=MkbcAHIYgyS) |
 | **Joint Localization and Activation Editing for Low-Resource Fine-Tuning** | MHA | Magnitude Analysis | Targeted Optimization | ICML | 2025 | [Link](https://openreview.net/forum?id=Lllg9YjAFX) |
