@@ -103,6 +103,7 @@ data-dependent
 | **LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations** | Residual Stream | Probing | Vector Arithmetic | ICLR | 2025 | [Link](https://openreview.net/forum?id=KRnsX5Em3W) |
 | **Multi-Attribute Steering of Language Models via Targeted Intervention** | Residual Stream | Gradient Detection | Vector Arithmetic | ACL | 2025 | [Link](https://arxiv.org/abs/2502.12446) |
 | **Improving Instruction-Following in Language Models through Activation Steering** | Residual Stream | - | Vector Arithmetic | ICLR | 2025 | [Link](https://openreview.net/forum?id=wozhdnRCtw) |
+| **Beyond Linear Activation Steering: Invertible Latent Transformations for Controlling LLM Behavior** | Residual Stream | Probing | Vector Arithmetic | NeurIPS | 2026 | [Link](https://arxiv.org/abs/2606.08454) |
 | **On the Role of Attention Heads in Large Language Model Safety** | MHA | Causal Attribution | Amplitude Manipulation | ICLR | 2025 | [Link](https://openreview.net/forum?id=h0Ak8A5yqw) |
 | **Refine Large Language Model Fine-tuning via Instruction Vector** | MHA | Causal Attribution | Targeted Optimization | ArXiv | 2024 | [Link](https://arxiv.org/abs/2406.12227) |
 | **Towards Understanding Safety Alignment: A Mechanistic Perspective from Safety Neurons** | Neuron | Causal Attribution | Amplitude Manipulation | ArXiv | 2025 | [Link](https://openreview.net/forum?id=1NkrxqY4jK) |
